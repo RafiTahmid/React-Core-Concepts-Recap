@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.district {
+  color: aquamarine;
+  background-color: #282c34;
+  border: 2px solid purple;
+  border-radius: 15px;
+  margin-top: 30px;
+  padding: 20px;
+}
